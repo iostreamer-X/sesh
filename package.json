@@ -1,0 +1,22 @@
+{
+  "name": "sesh",
+  "version": "1.0.0",
+  "description": "Collaboratively understanding Javascript and Node concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iostreamer-X/sesh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iostreamer-X/sesh/issues"
+  },
+  "homepage": "https://github.com/iostreamer-X/sesh#readme",
+  "dependencies": {
+    "bluebird": "^3.5.4"
+  }
+}
